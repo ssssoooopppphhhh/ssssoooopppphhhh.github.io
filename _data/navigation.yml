@@ -1,13 +1,3 @@
 main:
-  - title: "Research"
-    url: /research_portfolio/
-  - title: "Publications"
-    url: /publications/
-  - title: "Software"
-    url: /software/
-  - title: "Workshops"
-    url: /workshops/
   - title: "Posts"
     url: /blog/
-  - title: "About"
-    url: /about/
