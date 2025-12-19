@@ -40,6 +40,13 @@ defaults:
       share: false
       related: false
 
+  # Make author profile appear on the homepage too
+  - scope:
+      path: ""
+      type: pages
+    values:
+      author_profile: true
+
 # Blog home settings
 paginate: 10
 paginate_path: /page:num/
