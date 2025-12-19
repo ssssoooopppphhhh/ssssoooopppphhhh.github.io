@@ -1,9 +1,8 @@
 {% assign author = page.author | default: site.author %}
 
-<div class="author">
+<aside class="sidebar-author">
   {% if author.avatar %}
-    <!-- Avatar not clickable -->
-    <img class="author-avatar" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}">
+    <img class="avatar" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}">
   {% endif %}
 
   <div class="author-info">
@@ -27,4 +26,4 @@
       </p>
     {% endif %}
   </div>
-</div>
+</aside>
