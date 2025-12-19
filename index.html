@@ -1,5 +1,27 @@
 ---
-layout: home
+layout: default
 title: Home
+permalink: /
 ---
 
+<div class="container">
+  <div class="row">
+
+    <!-- Main content: Recent posts -->
+    <main class="col-8">
+      {% for post in site.posts %}
+        <article class="post-list-item">
+          <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+          <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+          <a href="{{ post.url | relative_url }}">Read more →</a>
+        </article>
+      {% endfor %}
+    </main>
+
+    <!-- Sidebar with author profile -->
+    <aside class="col-4 sidebar">
+      {% include sidebar.html %}
+    </aside>
+
+  </div>
+</div>
