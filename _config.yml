@@ -1,25 +1,11 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Isaac Overcast
-subtitle: \"Embrace the uncertainty
-email:
+title: Sophia
+subtitle: science?
+email: sophdoerr at gmail dot com
 description: >- # this means to ignore newlines until "baseurl:"
-  The personal website of Isaac Overcast. I study biodiversity across multiple
-  levels of organization using computer simulations, statistical models, and
-  machine learning.
+  The personal website of Sophia Doerr!
 twitter_username: isaacovercast
 github_username: isaacovercast
 minimal_mistakes_skin: default
@@ -62,22 +48,15 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Isaac Overcast"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Investigating biodiversity across spatial, temporal, and taxonomic scales."
+  name   : "Sophia Doerr"
+  avatar : "pic of soph.jpg"
+  bio    : "science?"
+  locashe    : "Eugene, Oregon"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/isaacovercast"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/ifitsfixeddontbreakit"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=2r3OrdwAAAAJ&hl=en&oi=ao"
-    - label: "CV"
-      icon: "fas fa-fw fa-file-alt"
-      url: "https://docs.google.com/document/d/1A1tTPmXpf3aUshaqLqpzjv5Z4XOinKK-aUiRP7cyg84/export?format=pdf&attachment=false"
+      url: "https://scholar.google.com/citations?user=lscOcm8AAAAJ&hl=en"
+
 
 defaults:
   # _posts
