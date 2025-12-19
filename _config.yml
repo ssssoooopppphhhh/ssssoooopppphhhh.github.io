@@ -68,6 +68,10 @@ author:
       #url: "https://orcid.org/0000-0003-4551-0357"
 
 
+header:
+  show_title: true
+  show_slogan: true
+
 defaults:
   # _posts
   - scope:
