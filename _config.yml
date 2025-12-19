@@ -50,15 +50,14 @@ author:
   
   name     : "Sophia Doerr"
   avatar   : "pic of soph.jpg"
-  bio      : "science?"
-  mail    : "sophdoerr at gmail dot com"
+  bio      : "sophdoerr at gmail dot com"
   location : "Eugene, Oregon"
   links:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=lscOcm8AAAAJ&hl=en"
     - label: "LinkedIn"
-      icon: "fa-brands fa-linkedin"
+      icon: "fa-brands fa-linkedin-in"
       url: "https://www.linkedin.com/in/sophia-doerr-a43567153/"
     - label: "Recipes"
       icon: "fa-solid fa-burger"
