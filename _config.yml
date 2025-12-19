@@ -1,58 +1,18 @@
-# Welcome to Jekyll!
-#
-# in the templates via {{ site.myvariable }}.
+# Site settings
 title: super snooper science salmon
-favicon: /assets/images/favicon/favicon.png
 subtitle: 
-email: sophdoerr at gmail dot com
-description: >- # this means to ignore newlines until "baseurl:"
-  The personal website of Sophia Doerr!
+description: The personal website of Sophia Doerr
+favicon: /assets/images/favicon/favicon.ico
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
 search: false
 
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /blog/page:num
-#paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-#include:
-  #- _pages
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-encoding: "UTF-8"
-
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-
+# Author info
 author:
-
-  
-  name     : "Sophia Doerr"
-  avatar   : /assets/images/sophia.jpg
-  bio      : "sophdoerr at gmail dot com"
-  location : "Eugene, Oregon"
+  name: "Sophia Doerr"
+  avatar: /assets/images/sophia.jpg
+  bio: "sophdoerr at gmail dot com"
+  location: "Eugene, Oregon"
   links:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
@@ -67,13 +27,8 @@ author:
       #icon: ""
       #url: "https://orcid.org/0000-0003-4551-0357"
 
-
-header:
-  show_title: true
-  show_slogan: true
-
+# Defaults for posts
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -84,17 +39,17 @@ defaults:
       comments: false
       share: false
       related: false
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# Blog home settings
+paginate: 10
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
