@@ -1,8 +1,8 @@
 # Welcome to Jekyll!
 #
 # in the templates via {{ site.myvariable }}.
-title: super snooper science salmon sister
-favicon: /assets/images/favicon/favicon.ico
+title: super snooper science salmon
+favicon: assets/images/favicon/favicon.ico
 subtitle: 
 email: sophdoerr at gmail dot com
 description: >- # this means to ignore newlines until "baseurl:"
