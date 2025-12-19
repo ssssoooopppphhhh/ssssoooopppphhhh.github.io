@@ -1,0 +1,11 @@
+<div class="author">
+  {% if site.author.avatar %}
+    <img class="author-avatar" src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}">
+  {% endif %}
+  <div class="author-info">
+    <h3 class="author-name">{{ site.author.name }}</h3>
+    {% if site.author.bio %}
+      <p class="author-bio">{{ site.author.bio }}</p>
+    {% endif %}
+  </div>
+</div>
