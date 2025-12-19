@@ -27,13 +27,39 @@ author:
       #icon: ""
       #url: "https://orcid.org/0000-0003-4551-0357"
 
+# Site settings
+title: super snooper science salmon
+subtitle: 
+description: The personal website of Sophia Doerr
+favicon: /assets/images/favicon/favicon.ico
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default
+search: false
+
+# Author info
+author:
+  name: "Sophia Doerr"
+  avatar: /assets/images/sophia.jpg
+  bio: "sophdoerr at gmail dot com"
+  location: "Eugene, Oregon"
+  links:
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=lscOcm8AAAAJ&hl=en"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin-in"
+      url: "https://www.linkedin.com/in/sophia-doerr-a43567153/"
+    - label: "Recipes"
+      icon: "fa-solid fa-burger"
+      url: "https://dario.party/recipes/index.html"
+
 # Defaults for posts
 defaults:
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: single       # ensures sidebar with author profile
       author_profile: true
       read_time: false
       comments: false
