@@ -1,8 +1,9 @@
 {% assign author = page.author | default: site.author %}
 
-<div class="author" style="text-align: center; margin-bottom: 2rem;">
+<div class="author">
   {% if author.avatar %}
-    <img class="author-avatar" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" style="border-radius: 50%; width: 150px; height: 150px; margin-bottom: 1rem;">
+    <!-- Avatar not clickable -->
+    <img class="author-avatar" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}">
   {% endif %}
 
   <div class="author-info">
@@ -16,7 +17,7 @@
     {% if author.links %}
       <p class="author-links">
         {% for link in author.links %}
-          <a href="{{ link.url }}" target="_blank" rel="noopener" style="margin-right: 1rem;">
+          <a href="{{ link.url }}" target="_blank" rel="noopener">
             {% if link.icon %}
               <i class="{{ link.icon }}"></i>
             {% endif %}
