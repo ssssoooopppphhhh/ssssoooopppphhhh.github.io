@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 #
 # in the templates via {{ site.myvariable }}.
-title: Sophia
+title: sophia's site
 subtitle: 
 email: sophdoerr at gmail dot com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -51,17 +51,17 @@ author:
   name     : "Sophia Doerr"
   avatar   : "pic of soph.jpg"
   bio      : "science?"
-  email    : "sophdoerr at gmail dot com"
+  mail    : "sophdoerr at gmail dot com"
   location : "Eugene, Oregon"
   links:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=lscOcm8AAAAJ&hl=en"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-google"
+      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/sophia-doerr-a43567153/"
     - label: "Recipes"
-      icon: "fab fa-fw fa-google"
+      icon: "fa-solid fa-burger"
       url: "https://dario.party/recipes/index.html"
     #- label: "Orcid"
       #icon: ""
