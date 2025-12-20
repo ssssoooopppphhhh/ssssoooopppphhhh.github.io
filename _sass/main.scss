@@ -12,4 +12,8 @@ html {
   @include breakpoint($x-large) {
     font-size: 18px; // change to whatever
   }
+
+  .sidebar {
+    opacity: 1.0;
+  }
 }
