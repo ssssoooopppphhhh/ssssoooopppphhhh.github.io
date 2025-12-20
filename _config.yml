@@ -4,7 +4,7 @@ subtitle:
 description: The personal website of Sophia Doerr
 favicon: /assets/images/favicon/favicon.ico
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: default
+minimal_mistakes_skin: sunrise
 search: false
 
 # Author info
