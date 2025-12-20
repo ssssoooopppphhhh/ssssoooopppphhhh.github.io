@@ -14,7 +14,7 @@ author:
   bio: "sophdoerr at gmail dot com"
   location: "Eugene, Oregon"
   links:
-    - label: "Google Scholar"
+    - label: "Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=lscOcm8AAAAJ&hl=en"
     - label: "LinkedIn"
