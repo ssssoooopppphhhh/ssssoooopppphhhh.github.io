@@ -10,7 +10,7 @@ date: 2026-01-25
 <p><strong>-um:</strong></p>
 
 <p>this datum -> these data</p>
-<blockquote style="border: none; margin-top: 0; padding-left: 20px;">
+<blockquote>
   Starting off with the big one.
 </blockquote>
 
