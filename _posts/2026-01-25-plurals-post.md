@@ -1,5 +1,5 @@
 ---
-title: "the slippery science of plurals"
+title: "the slippery science of pluralS"
 date: 2026-01-25
 ---
 
