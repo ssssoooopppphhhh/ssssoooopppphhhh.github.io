@@ -9,10 +9,11 @@ date: 2026-01-25
 
 <p><strong>-um:</strong></p>
 
-<p>this datum -> these data</p>
+<p>this datum -> these data
 <pp>
   Starting off with the big one.
 </pp>
+</p>
 
 <p>this punctum -> these puncta</p>
 <blockquote style="border: none; margin-top: 0; padding-left: 20px;">Punctate is also a nice adjective</blockquote>
