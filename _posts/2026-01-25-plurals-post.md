@@ -14,13 +14,14 @@ date: 2026-01-25
   Starting off with the big one.
 </blockquote>
 
-<p>this punctum -> these puncta
-	<p>Punctate is also a nice adjective</p>
+<p>this punctum -> these puncta</p>
+<blockquote>Punctate is also a nice adjective</blockquote>
 
 <p>this spectrum -> these spectra</p>
 
 <p>this lamellipodium -> these lamellipodia (latin and greek): lamella “sheet” pod “foot”
-	<p>This one comes from both Latin and Greek! Lamella is Latin for “plate or sheet” and pod is Greek for “foot”</p>
+</p>
+<blockquote>This one comes from both Latin and Greek! Lamella is Latin for “plate or sheet” and pod is Greek for “foot”</blockquote>
 
 <p>this bacterium -> these bacteria</p>
 
@@ -29,7 +30,8 @@ date: 2026-01-25
 <p>this cilium -> these cilia</p>
 
 <p>this minimum -> these minima
-	<p>Also maximum.</p>
+</p>
+<blockquote>Also maximum.</blockquote>
 
 <p><strong>-us:</strong></p>
 
@@ -40,16 +42,20 @@ date: 2026-01-25
 <p>this radius -> these radii</p>
 
 <p>this nucleus -> these nuclei
-	<p>It’s Latin for “kernel”</p>
+</p>
+<blockquote>It’s Latin for “kernel”</blockquote>
 
 <p>this genus -> these genera
-	<p>This comes from Latin just like the ones above so why doesn’t it become “generi”? The answer is (obviously) that it’s a 3rd-declension noun instead of a 2nd declension noun!</p>
+</p>
+<blockquote>This comes from Latin just like the ones above so why doesn’t it become “generi”? The answer is (obviously) that it’s a 3rd-declension noun instead of a 2nd declension noun!</blockquote>
 
 <p>this virus -> these viruses
-	<p>This also has Latin origins, but it used to be a mass noun like “blood” which didn’t have a plural. That’s why it got the English plural when it gained its modern meaning.</p>
+</p>
+<blockquote>This also has Latin origins, but it used to be a mass noun like “blood” which didn’t have a plural. That’s why it got the English plural when it gained its modern meaning.</blockquote>
 
 <p>this octopus -> these octopuses/octopodes
-	<p>This one’s Greek, so “octopi” is wrong.</p>
+</p>
+<blockquote>This one’s Greek, so “octopi” is wrong.</blockquote>
 
 <p><strong>-a:</strong></p>
 
@@ -74,16 +80,21 @@ date: 2026-01-25
 <p>this homolog/homologue -> these homologs/homologues (Greek)</p>
 
 <p>this metazoan -> these metazoans
-	<p>The group is Metazoa.</p>
+</p>
+<blockquote>The group is Metazoa.</blockquote>
 
 <p>this protozoan -> these protozoa
-	<p>Why is it different from metazoan?? Who knows. Some people do seem to use “protozoans”.</p>
+</p>
+<blockquote>Why is it different from metazoan?? Who knows. Some people do seem to use “protozoans”.</blockquote>
 
 <p>this umwelt -> these umwelten
-	<p>Taken from the German word for “environment” by Jakob Johann von Uexküll. Since I’m used to this word in its original context in which it would never be pluralized, “umwelten” kind of bothers me. The plural of “welt” (“world”) is “welten” so I do think it’s correct.</p>
+</p>
+<blockquote>Taken from the German word for “environment” by Jakob Johann von Uexküll. Since I’m used to this word in its original context in which it would never be pluralized, “umwelten” kind of bothers me. The plural of “welt” (“world”) is “welten” so I do think it’s correct</blockquote>
 
 <p>this species -> these species
-	<p>Same same! Latin.</p>
+</p>
+<blockquote>Same same! Latin.</blockquote>
 
 <p>this moose -> these moose
-	<p>Same same! This one came to American English from an Algonquian language. Turns out it’s pretty common for animal words to have invariant plurals: caribou (also Algonquian), sheep, trout, deer, cod, elk, reindeer, salmon, bison, squid.</p>
+</p>
+<blockquote>Same same! This one came to American English from an Algonquian language. Turns out it’s pretty common for animal words to have invariant plurals: caribou (also Algonquian), sheep, trout, deer, cod, elk, reindeer, salmon, bison, squid.</blockquote>
