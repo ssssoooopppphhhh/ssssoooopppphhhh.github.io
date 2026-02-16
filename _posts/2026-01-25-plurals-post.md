@@ -10,7 +10,9 @@ date: 2026-01-25
 <p><strong>-um:</strong></p>
 
 <p>this datum -> these data</p>
- 	<p>	Starting off with the big one.</p>
+ 	<blockquote style="margin-top: 0;">
+  Starting off with the big one.
+</blockquote>
 
 <p>this punctum -> these puncta
 	<p>Punctate is also a nice adjective</p>
