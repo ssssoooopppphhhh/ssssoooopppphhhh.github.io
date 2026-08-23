@@ -78,7 +78,9 @@ date: 2026-01-25
 
 <p>this helix -> these helices</p>
 
-<p>this homolog/homologue -> these homologs/homologues (Greek)</p>
+<p>this homolog/homologue -> these homologs/homologues</p>
+</p>
+<blockquote style="border: none; margin-top: 0; padding-left: 20px;">Greek.</blockquote>
 
 <p>this metazoan -> these metazoans
 </p>
