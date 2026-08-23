@@ -1,5 +1,5 @@
 ---
-title: "Ras, SOS, and nanobodies"
+title: "Ras, SOS, & nanobodies"
 date: 2026-06-16
 ---
 
