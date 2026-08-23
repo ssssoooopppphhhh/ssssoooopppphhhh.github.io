@@ -17,7 +17,7 @@ date: 2026-03-14
 
 <p>The resulting distinct signaling zones dictate different transcriptional programs. Regions characterized by high Dkk4 binding grow physically thicker and can be identified in the fetal epidermis even before fur growth begins. The keratinocytes in regions characterized by Wnt activation go on to interact with melanocytes (pigment-producing cells). Ultimately, the zones of Wnt positive feedback become dark stripes, while the Dkk4-inhibited regions become the lighter background.</p>
 
-<p>Further evidence for this mechanism is found in cats with mutations in the Dkk4 gene. These mutations alter the biophysical properties of the inhibition (such as its diffusion rate or binding affinity) leading to the diverse array of feline motifs we see in nature, from the swirled patterns of the classic tabby and the spots of the Egyptian Mau to the dramatic markings of the King Cheetah.</p>
+<p>Further evidence for this mechanism is found in cats with mutations in the Dkk4 gene. These mutations alter the biophysical properties of the inhibitor (such as its diffusion rate or binding affinity) leading to the diverse array of feline motifs we see in nature, from the swirled patterns of the classic tabby and the spots of the Egyptian Mau to the dramatic markings of the King Cheetah.</p>
 
 <p><i>Fun notes on gene/protein names:</i></p>
 <p><i>The name of Frizzled comes from its discovery in</i> Drosophila melanogaster<i> (fruitfly). Mutant flies grow abnormal, frizzy fur.</i></p>
