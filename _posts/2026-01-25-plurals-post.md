@@ -48,7 +48,7 @@ date: 2026-01-25
 
 <p>this genus -> these genera
 </p>
-<blockquote style="border: none; margin-top: 0; padding-left: 20px;">This comes from Latin just like the ones above so why doesn’t it become “generi”? The answer is (obviously) that it’s a 3rd-declension noun instead of a 2nd declension noun!</blockquote>
+<blockquote style="border: none; margin-top: 0; padding-left: 20px;">This comes from Latin just like the ones above so why doesn’t it become “generi”? The answer is (obviously) that it’s a 3rd declension noun instead of a 2nd declension noun!</blockquote>
 
 <p>this virus -> these viruses
 </p>
