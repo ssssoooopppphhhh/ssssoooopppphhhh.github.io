@@ -32,7 +32,7 @@ date: 2026-01-25
 
 <p>this minimum -> these minima
 </p>
-<blockquote style="border: none; margin-top: 0; padding-left: 20px;">Also maximum.</blockquote>
+<blockquote style="border: none; margin-top: 0; padding-left: 20px;">Same for maximum.</blockquote>
 
 <p><strong>-us:</strong></p>
 
