@@ -20,7 +20,7 @@ date: 2026-01-25
 
 <p>this spectrum -> these spectra</p>
 
-<p>this lamellipodium -> these lamellipodia (latin and greek): lamella “sheet” pod “foot”
+<p>this lamellipodium -> these lamellipodia
 </p>
 <blockquote style="border: none; margin-top: 0; padding-left: 20px;">This one comes from both Latin and Greek! Lamella is Latin for “plate or sheet” and pod is Greek for “foot”</blockquote>
 
