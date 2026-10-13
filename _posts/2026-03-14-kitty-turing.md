@@ -3,7 +3,7 @@ title: "how the kitty got her stripes"
 date: 2026-03-14
 ---
 
-![image](/assets/images/221026 ami white.png)
+<img src="/assets/images/221026 ami white.png" style="width: 400px; height: auto;">
 
 <p>I study positive and negative feedback circuits that toggle biochemical reactions on and off at the plasma membranes of cells. Membrane signaling modules that contain both positive and negative feedback can result in mesmerizing, dynamic patterns of splotches and labyrinths (2). Yet, plasma membrane protein networks are far from the only context where positive and negative feedback circuitry results in striking spatial organization.</p>
 
