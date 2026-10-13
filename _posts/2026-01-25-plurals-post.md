@@ -3,7 +3,7 @@ title: "the slippery science of pluralS"
 date: 2026-01-25
 ---
 
-<img src="/assets/images/260218 eggs.png" style="width: 350px; height: auto;">
+<img src="/assets/images/260218 eggs.png" style="width: 500px; height: auto;">
 
 <p>Scientists can be a judgemental bunch. We're trained to be critical so that we can separate real signals from noise and evidence-based conclusions from biased or misguided pseudoscience. When I tripped over the word “jasplakinolide” in a presentation last year it rightfully triggered alarm bells in my audience: <i>If she didn’t even take the time to practice pronouncing that word, what other aspects of her work does she half-ass?</i> That being said, of course there are plenty of reasons someone might make a linguistic error that have no bearing on their ability to do great science. Scrutinizing the language of scientific writers or speakers quickly becomes problematic.</p>
 
